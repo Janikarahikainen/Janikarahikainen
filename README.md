@@ -11,8 +11,7 @@ I'm Janika, a curious learner who loves coding, creativity, and organizing thing
 
 ## 🛠️ Skills
 - **Programming**: JavaScript, TypeScript, HTML, CSS, Svelte  
-- **Databases**: MySQL  
-- **Cloud**: AWS  
+- **Cloud**: AWS (basic services and deployment) 
 - **Design & Multimedia**: Photoshop, Illustrator, Premiere Pro, Figma  
 - **Tools**: Git/GitHub, Trello  
 
@@ -20,3 +19,4 @@ I'm Janika, a curious learner who loves coding, creativity, and organizing thing
 - **Relational databases** with MySQL  
 - **Angular** 
 - **Web application testing**
+- **English** – improving my language skills
