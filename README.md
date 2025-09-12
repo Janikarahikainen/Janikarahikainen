@@ -10,10 +10,13 @@ I'm Janika, a curious learner who loves coding, creativity, and organizing thing
 - 📚 Always excited to learn new things and explore technology.  
 
 ## 🛠️ Skills
-- Svelte & TypeScript  
-- HTML, CSS, JavaScript  
-- Video editing (Premiere Pro)
+- **Programming**: JavaScript, TypeScript, HTML, CSS, Svelte  
+- **Databases**: MySQL  
+- **Cloud**: AWS  
+- **Design & Multimedia**: Photoshop, Illustrator, Premiere Pro, Figma  
+- **Tools**: Git/GitHub, Trello  
 
 ## 🌱 Currently Learning
 - **Relational databases** with MySQL  
-- **Angular** framework 
+- **Angular** 
+- **Web application testing**
