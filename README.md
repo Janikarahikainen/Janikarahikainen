@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Janikarahikainen/Janikarahikainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Janika, a curious learner who loves coding, creativity, and organizing things!  
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 I'm currently studying **Business Information Technology**.
+- 🍞 This field is completely new to me — before IT, I studied to become a **baker**.
+- 💻 I mainly code with **JavaScript/TypeScript**, but I'm eager to learn other programming languages as well.      
+- 🍰 In my free time I enjoy baking and crafting.  
+- 📚 Always excited to learn new things and explore technology.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Svelte & TypeScript  
+- HTML, CSS, JavaScript  
+- Video editing (Premiere Pro)
+
+## 🌱 Currently Learning
+- **Relational databases** with MySQL  
+- **Angular** framework 
