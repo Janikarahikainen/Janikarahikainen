@@ -18,5 +18,4 @@ I'm Janika, a curious learner who loves coding, creativity, and organizing thing
 ## 🌱 Currently Learning
 - **Relational databases** with MySQL  
 - **Angular** 
-- **Web application testing**
 - **English** – improving my language skills
