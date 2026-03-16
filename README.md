@@ -6,8 +6,7 @@ I'm Janika, a curious learner who loves coding, creativity, and organizing thing
 - 🎓 I'm currently studying **Business Information Technology**.
 - 🍞 This field is completely new to me — before IT, I studied to become a **baker**.
 - 💻 I mainly code with **JavaScript/TypeScript**, but I'm eager to learn other programming languages as well.      
-- 🍰 In my free time I enjoy baking and crafting.  
-- 📚 Always excited to learn new things and explore technology.  
+- 🍰 In my free time I enjoy baking and crafting.    
 
 ## 🛠️ Skills
 - **Programming**: JavaScript, TypeScript, HTML, CSS, Svelte, Angular  
@@ -17,5 +16,5 @@ I'm Janika, a curious learner who loves coding, creativity, and organizing thing
 - **Databases**: MySQL, MongoDB
   
 ## 🌱 Currently Learning
-- **NoSQL databases** with MongoDB  
-- **Backend development** with MySQL and MongoDB
+- **NoSQL databases** with MongoDB, Redis, Neo4j and DynamoDB
+- **Backend development** with Node.js, MySQL and MongoDB
