@@ -1,20 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Janika! 👋
 
-I'm Janika, a curious learner who loves coding, creativity, and organizing things!  
+**Business Information Technology Student | Aspiring Full-Stack Developer**
 
-## 🌟 About Me
-- 🎓 I'm currently studying **Business Information Technology**.
-- 🍞 This field is completely new to me — before IT, I studied to become a **baker**.
-- 💻 I mainly code with **JavaScript/TypeScript**, but I'm eager to learn other programming languages as well.      
-- 🍰 In my free time I enjoy baking and crafting.    
-
-## 🛠️ Skills
+## Skills
 - **Programming**: JavaScript, TypeScript, HTML, CSS, Svelte, Angular  
 - **Cloud**: AWS (basic services and deployment) 
 - **Design & Multimedia**: Photoshop, Illustrator, Premiere Pro, Figma  
 - **Tools**: Git/GitHub, Trello, Docker
 - **Databases**: MySQL, MongoDB
   
-## 🌱 Currently Learning
-- **NoSQL databases** with MongoDB, Redis, Neo4j and DynamoDB
-- **Backend development** with Node.js, MySQL and MongoDB
+## Currently Learning
+- **Backend:** Node.js & REST API 
+- **NoSQL databases:** Redis, Neo4j ja DynamoDB
