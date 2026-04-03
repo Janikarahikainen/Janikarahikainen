@@ -4,7 +4,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,svelte,aws,docker,git,github,ai,mongodb,mysql,nodejs,npm,vscode&perline=8)](https://skillicons.dev)
 
 
 - **Programming**: JavaScript, TypeScript, HTML, CSS, Svelte, Angular  
