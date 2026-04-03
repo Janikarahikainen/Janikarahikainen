@@ -1,8 +1,12 @@
 # Hi there, I'm Janika! 👋
 
-**Business Information Technology Student | Aspiring Full-Stack Developer**
+**Business Information Technology Student & Future Full-Stack Developer**
 
 ## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 - **Programming**: JavaScript, TypeScript, HTML, CSS, Svelte, Angular  
 - **Cloud**: AWS (basic services and deployment) 
 - **Design & Multimedia**: Photoshop, Illustrator, Premiere Pro, Figma  
